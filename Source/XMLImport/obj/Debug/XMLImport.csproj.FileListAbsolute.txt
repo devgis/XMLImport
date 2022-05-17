@@ -1,0 +1,8 @@
+F:\Demo\XMLImport\XMLImport\obj\Debug\XMLImport.csprojResolveAssemblyReference.cache
+F:\Demo\XMLImport\XMLImport\obj\Debug\XMLImport.Main.resources
+F:\Demo\XMLImport\XMLImport\obj\Debug\XMLImport.Properties.Resources.resources
+F:\Demo\XMLImport\XMLImport\obj\Debug\XMLImport.csproj.GenerateResource.Cache
+F:\Demo\XMLImport\XMLImport\bin\Debug\XMLImport.exe
+F:\Demo\XMLImport\XMLImport\bin\Debug\XMLImport.pdb
+F:\Demo\XMLImport\XMLImport\obj\Debug\XMLImport.exe
+F:\Demo\XMLImport\XMLImport\obj\Debug\XMLImport.pdb
